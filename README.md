@@ -1,3 +1,8 @@
 # Mushroom Classification
 
-![accuracies]()
+
+
+
+
+
+![accuracies](accuracies.png)
